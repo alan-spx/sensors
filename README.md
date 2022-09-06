@@ -7,6 +7,9 @@ https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33
 **DFK 33GX273**  
 https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx273/  
 
+**DFK 37AUX273**
+https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-color/dfk37aux273/  
+
 
 # Teledyne 
 
