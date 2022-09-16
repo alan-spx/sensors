@@ -11,6 +11,11 @@ https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx2
 https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-color/dfk37aux273/  
 
 
+# Lens
+
+**FE185C057HA-1**  
+https://www.fujifilm.com/us/en/business/optical-devices/machine-vision-lens/fe185-series  
+
 # Teledyne 
 
 **Nano G3-GC11-C2020IF**
