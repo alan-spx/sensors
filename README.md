@@ -1,14 +1,14 @@
 
 # The Imaging Source
 
-**DFK 33UX250**  
-https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33ux250/  
-
-**DFK 33GX273**  
+**DFK 33GX273** - Solar robots  
 https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx273/  
 
 **DFK 37AUX273**  
 https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-color/dfk37aux273/  
+
+**DFK 33UX250**  
+https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33ux250/  
 
 
 # Lens
