@@ -10,7 +10,7 @@ https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-color/dfk37
 **DFK 33UX250**  
 https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33ux250/  
 
-**TIS Industrial cameras USB 3.0 color List**
+**TIS Industrial cameras USB 3.0 color List**  
 https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/  
 
 
