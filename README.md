@@ -13,6 +13,9 @@ https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33
 **DFK 33GX264**  
 https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx264/  
 
+**DFK 33GX183**  
+https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx183/  
+
 **TIS Industrial cameras USB 3.0 color List**  
 https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/  
 
