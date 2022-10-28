@@ -10,10 +10,10 @@ https://www.theimagingsource.com/products/industrial-cameras/usb-3.1-color/dfk37
 **DFK 33UX250**  
 https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33ux250/  
 
-**DFK 33GX264**  
+**DFK 33GX264** - 2/3-inch global shutter   
 https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx264/  
 
-**DFK 33GX183**  
+**DFK 33GX183** - 1-inch rolloing shutter   
 https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx183/  
 
 **TIS Industrial cameras USB 3.0 color List**  
