@@ -34,5 +34,11 @@ https://www.uniforcesales.com/cameras/dalsa-genie-nano-g3-gc11-c2020if/
 
 # Velodyne
 
+** Puck **  VLP-16 Puck | 80-VLP-16-A  
+
+https://velodynelidar.com/products/puck/  
+
 # Ouster
+
+
 
