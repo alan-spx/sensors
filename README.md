@@ -40,5 +40,8 @@ https://velodynelidar.com/products/puck/
 
 # Ouster
 
+**OS0** OS0-32  
+
+https://ouster.com/products/scanning-lidar/os0-sensor/  
 
 
