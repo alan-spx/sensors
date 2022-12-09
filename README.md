@@ -26,6 +26,7 @@ https://www.theimagingsource.com/products/industrial-cameras/usb-3.0-color/dfk33
 
 https://www.e-consystems.com/nvidia-jetson-agx-orin-cameras.asp  
 https://www.e-consystems.com/nvidia-cameras/jetson-agx-orin-cameras/full-hd-ar0234-color-global-shutter-camera.asp  
+https://www.e-consystems.com/nvidia-cameras/jetson-agx-orin-cameras/ar0230-fhd-gmsl2-hdr-camera.asp  
 
 # Lens
 
